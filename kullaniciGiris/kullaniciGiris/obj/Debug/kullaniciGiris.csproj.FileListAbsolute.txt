@@ -1,0 +1,11 @@
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\bin\Debug\kullaniciGiris.exe.config
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\bin\Debug\kullaniciGiris.exe
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\bin\Debug\kullaniciGiris.pdb
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\obj\Debug\kullaniciGiris.csproj.AssemblyReference.cache
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\obj\Debug\kullaniciGiris.csproj.SuggestedBindingRedirects.cache
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\obj\Debug\kullaniciGiris.Form1.resources
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\obj\Debug\kullaniciGiris.Properties.Resources.resources
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\obj\Debug\kullaniciGiris.csproj.GenerateResource.cache
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\obj\Debug\kullaniciGiris.csproj.CoreCompileInputs.cache
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\obj\Debug\kullaniciGiris.exe
+C:\Users\GAYE\source\repos\kullaniciGiris\kullaniciGiris\obj\Debug\kullaniciGiris.pdb
